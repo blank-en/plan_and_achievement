@@ -1,0 +1,32 @@
+i have a lot of things to do, i need to make priority
+
+first, i'm happy to use chinese for writing, it will hard and slow to use english, but if i use english a month, or a year, what will happen!
+
+1. cocos2d-x 3.0
+	a prefect 2d game engineer, i can use it to develop game and learn a lot of skills contain the follows.
+
+2. lua
+	lua is a newer for me, which can create logic use script, it's prefect for updating game from server.
+	
+3. reflection
+	c++ don't have reflection, but if you want to translate data to object, or in return, reflection will provide help you can't to say no.
+	
+4. resource manager, 
+	png, swf, wav and so on, i need to manage to make app size more small, memory more less.
+	
+5. event manager
+	it can make the program pretty and clear.
+
+6. network communication like protobuf
+	you must need communication with server if you want to developer a network game which will be more prospect, protobuf is a prefect framework to do it.
+
+7. socket and http
+	network game will need it, i will need some basic skills.
+
+8. jni
+	it's a bridge between c++ to java. if you develop game for android, it will be helpful.	
+	
+9. opengl es
+	all mobile games is base on opengl es, i have heared it's hard to learn, but it's just a skill, and so many people can use it, what's the hard!
+
+maybe there are some more i need learn, but i need learn one by one, if some skill come to my mind, i will adjust the priority.
